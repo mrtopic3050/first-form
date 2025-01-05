@@ -1,0 +1,16 @@
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.field_pitha{
+    background-color: beige;
+    text-decoration: solid;
+    color: red;
+}
+
+.field_vhorta{
+    background-color: rgb(249, 158, 31);
+    text-decoration: solid;
+    color: black;
+}
