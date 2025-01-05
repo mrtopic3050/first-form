@@ -1,0 +1,21 @@
+section{
+    background-color: rgb(248, 242, 239);
+
+}
+
+.field_pitha{
+    background-color: beige;
+    text-decoration: solid;
+    color: red;
+}
+
+.field_vhorta{
+    background-color: azure;
+    text-decoration: solid;
+    color: red;
+
+}
+
+.field_special{
+    background-color: aquamarine;
+}
